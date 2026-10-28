@@ -80,7 +80,7 @@ SleeksCafeApp/
 ├── public/                 # Static assets & bundled output
 │   ├── index.html          # HTML entry point with Tailwind CDN
 │   ├── logo.jpg            # Brand logo
-│   └── bundle.js           # Compiled Webpack bundle
+│   └── bundle.js           # Compiled Webpack bundle (generated on build)
 ├── src/                    # Source code
 │   ├── SleeksCafeCommandCenter.jsx  # Main application logic & UI
 │   ├── firebase-config.js  # Firebase configuration template
